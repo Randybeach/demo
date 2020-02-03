@@ -16,9 +16,6 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		  <fabric8-maven-plugin.version>3.5.40</fabric8-maven-plugin.version>
-    <fabric8.openshift.trimImageInContainerSpec>true</fabric8.openshift.trimImageInContainerSpec>
-    <fabric8.skip.build.pom>true</fabric8.skip.build.pom>
 	</properties>
 
 	<dependencies>
